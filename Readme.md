@@ -1,78 +1,37 @@
-# Parthasarathy Web developer Portfolio
+# Parthasarathy - Freelancer Portfolio
+- [Portfolio](https://parthasarathyswd.github.io/portfolio-latest/)
 
-A responsive web application designed for freelancers to showcase their portfolios, manage projects, and connect with clients. This application provides a professional and user-friendly interface to help freelancers promote their services effectively.
+Welcome to my portfolio! I am Parthasarathy, a highly skilled and experienced web developer with expertise in various technologies and services. Below you will find information about my skills, services, and how to get in touch with me.
 
-## Features
+## Skills
 
-- **Responsive Design**: Optimized for desktops, tablets, and mobile devices.
-- **Portfolio Showcase**: Display work samples and previous projects.
-- **Project Management**: Track ongoing projects, deadlines, and milestones.
-- **Client Testimonials**: Highlight feedback from satisfied clients.
-- **Contact Form**: Easy-to-use contact form for potential clients to reach out.
+- **Web Design**: Creating visually appealing and user-friendly designs.
+- **Web Development**: Building responsive and functional websites using modern technologies.
+- **CloudOps**: Managing and deploying applications in the cloud.
+- **Data Analytics**: Analyzing data to derive insights and drive business decisions.
+- **SEO**: Optimizing websites to improve search engine rankings.
+- **Cyber Security**: Ensuring the security and integrity of applications and data.
 
-## Technologies Used
+## Services Offered
 
-- **HTML5**: Markup language for creating the structure of the web pages.
-- **CSS3**: Stylesheet language for designing the layout and appearance.
-- **JavaScript**: Programming language for adding interactivity and functionality.
-- **Bootstrap**: Framework for building responsive, mobile-first web pages.
+- **Front-End Development**: HTML, CSS, JavaScript, AngularJS, React.
+- **Back-End Development**: Python/Django, FastAPI, PHP, .NET Core.
+- **Cloud Services**: AWS architecture and deployment.
+- **Data Analytics**: Data analysis and visualization.
+- **SEO Optimization**: Improving website visibility on search engines.
+- **Cyber Security**: Implementing security measures to protect applications.
 
-## Getting Started
+## Portfolio
 
-### Prerequisites
+Check out my portfolio to see examples of my work: [Parthasarathy's Portfolio](https://your-github-username.github.io/your-repo-name/)
 
-Make sure you have the following installed on your development machine:
+## Contact
 
-- [Git](https://git-scm.com/)
-- [Node.js](https://nodejs.org/) (optional, for running a local server)
+- **Phone**: +91 8344 448985
+- **Email**: parthasarathy25@hotmail.com
 
-### Installation
+Feel free to reach out to me for any freelance opportunities or projects!
 
-1. Clone the repository:
+## Hire Me
 
-    ```bash
-    git clone https://github.com/your-username/freelancer-web-app.git
-    ```
-
-2. Navigate to the project directory:
-
-    ```bash
-    cd freelancer-web-app
-    ```
-
-3. Open `index.html` in your browser to view the application:
-
-    ```bash
-    open index.html
-    ```
-
-### Running a Local Server (Optional)
-
-For a more advanced setup, you can use a local server to run the application:
-
-1. Install a simple HTTP server (e.g., using Node.js):
-
-    ```bash
-    npm install -g http-server
-    ```
-
-2. Start the server:
-
-    ```bash
-    http-server
-    ```
-
-3. Open your browser and navigate to the provided URL (e.g., `http://localhost:8080`).
-
-## Live Demo
-
-You can view the live demo of the application hosted on GitHub Pages:
-
-[Freelancer Web Application Demo](https://your-username.github.io/freelancer-web-app)
-
-## Contributing
-
-Contributions are welcome! If you would like to contribute to the project, please follow these steps:
-
-1. Fork the repository.
-2. Create a
+If you would like to hire me, please [contact me](mailto:parthasarathy25@hotmail.com) or visit my [portfolio](https://your-github-username.github.io/your-repo-name/) to learn more about my work.
